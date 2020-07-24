@@ -1,8 +1,8 @@
-# Guided-Project---Analyzing-Mobile-App-Data-
+# Guided-Project--Analyzing-Mobile-App-Data-
 
 Analyzing data on mobile apps from the Apple Store and Google Play 
 
-In this project, I use basic Python commands and functions to analyze a dataset on mobile apps in the Google Play store and the App Store. 
+In this project by Dataquest, I use basic Python commands and functions to analyze a dataset on mobile apps in the Google Play store and the App Store. 
 
 I have created a new dataset by using simple list slicing to get rid of the row that contains the column headers; I have printed the headers separately. 
 I started off with creating a function that conducts a simple analysis of the dataset, and prints out the number of rows and columns in the dataset.
